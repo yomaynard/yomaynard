@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A Sr. Software Developer from NY</h3>
+<h3 align="center">A Senior Software Developer from NY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yomaynard&label=Profile%20views&color=0e75b6&style=flat" alt="yomaynard" /> </p>
 
